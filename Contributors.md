@@ -1,6 +1,7 @@
 # Contributors
 aiymzhann08
 - dm - first timer!
+- [PBAslerDesign](https://github.com/PBaslerDESIGN/)**The Future Looks Bright**
 - [@sriharsha_cr](https://twitter.com/sriharsha_cr): Hello world, it's good to start from here! 👍
 - [@jakeevans00](https://github.com/jakeevans00) 🦆🦆🦆🦆🦆🦆...🦆 
 - [Ahzem](https://github.com/ahzem) **Love to OpenSource**
